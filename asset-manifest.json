@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/freak-e-store/static/css/main.07d0ffa4.css",
+    "main.js": "/freak-e-store/static/js/main.8244b7ee.js",
+    "static/media/item2.jpg": "/freak-e-store/static/media/item2.3aac9b3eddcc7db8d68c.jpg",
+    "static/media/item3.jpg": "/freak-e-store/static/media/item3.fb0d8019efc7487f0c67.jpg",
+    "static/media/item4.jpg": "/freak-e-store/static/media/item4.c3c8120e25ca9ecb4e5a.jpg",
+    "static/media/item1.jpg": "/freak-e-store/static/media/item1.8328b7216d8173d3fda8.jpg",
+    "static/media/aboutpage.jpg": "/freak-e-store/static/media/aboutpage.16cd5a535be5854b5755.jpg",
+    "static/media/newletter.jpg": "/freak-e-store/static/media/newletter.b7f0d82512b627413256.jpg",
+    "static/media/8.png": "/freak-e-store/static/media/8.3e3e4919cbddca599c1c.png",
+    "static/media/13.png": "/freak-e-store/static/media/13.293f4f57ec14ca80b9a9.png",
+    "static/media/5.png": "/freak-e-store/static/media/5.96f2cc9899f8dfeff04e.png",
+    "static/media/17.png": "/freak-e-store/static/media/17.3f4a82c93ac5835a44f4.png",
+    "static/media/10.png": "/freak-e-store/static/media/10.0b89d11a12894601a2e8.png",
+    "static/media/11.png": "/freak-e-store/static/media/11.0ff12967d3f053713f05.png",
+    "static/media/PS5.png": "/freak-e-store/static/media/PS5.9cfb8e2646e0c21b73b1.png",
+    "static/media/20.png": "/freak-e-store/static/media/20.fcfa92a70b5999f6c1ec.png",
+    "static/media/15.png": "/freak-e-store/static/media/15.12225ac80427f9c49455.png",
+    "static/media/7.png": "/freak-e-store/static/media/7.07de719cc842c0473587.png",
+    "static/media/6.png": "/freak-e-store/static/media/6.f9bd77105b3b4fabf06f.png",
+    "static/media/4.png": "/freak-e-store/static/media/4.581caaa33aed92acd51b.png",
+    "static/media/14.png": "/freak-e-store/static/media/14.2df904441601aee12606.png",
+    "static/media/19.png": "/freak-e-store/static/media/19.1a26fbcd395ed713b28e.png",
+    "static/media/18.png": "/freak-e-store/static/media/18.4c78eb10e7c8ad9036e1.png",
+    "static/media/3.png": "/freak-e-store/static/media/3.7b466fb02ddb9688af71.png",
+    "static/media/9.png": "/freak-e-store/static/media/9.6669dd96850a3d6f65bf.png",
+    "static/media/2.png": "/freak-e-store/static/media/2.4ee4eff4fce5e10009be.png",
+    "static/media/16.png": "/freak-e-store/static/media/16.1d746df980398c3a5683.png",
+    "static/media/12.png": "/freak-e-store/static/media/12.65aa323a1bcf4e8fe7f8.png",
+    "static/media/1.png": "/freak-e-store/static/media/1.2ffd12c4491718de371b.png",
+    "index.html": "/freak-e-store/index.html",
+    "main.07d0ffa4.css.map": "/freak-e-store/static/css/main.07d0ffa4.css.map",
+    "main.8244b7ee.js.map": "/freak-e-store/static/js/main.8244b7ee.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.07d0ffa4.css",
+    "static/js/main.8244b7ee.js"
+  ]
+}
